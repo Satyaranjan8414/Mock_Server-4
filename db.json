@@ -1,0 +1,18 @@
+{
+	"dogs": [
+	  {
+		"name": "Golden Retrievers.",
+		"age": 2,
+		"gender": "Male",
+		"place": "Bengalore",
+		"id": 1
+	  },
+	  {
+		"name": "German Shepherd Dogs.",
+		"age": 4,
+		"gender": "Female",
+		"place": "Delhi",
+		"id": 2
+	  }
+	]
+  }

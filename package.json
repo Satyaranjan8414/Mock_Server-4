@@ -1,0 +1,15 @@
+{
+  "name": "mock-5_server",
+  "version": "1.0.0",
+  "description": "mock server app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "keywords": [],
+  "author": "satyaranjan",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
