@@ -1,17 +1,47 @@
 {
-	"dogs": [
+	"users": [
 	  {
-		"name": "Golden Retrievers.",
-		"age": 2,
-		"gender": "Male",
-		"place": "Bengalore",
+		"username": "satya",
+		"email": "satya@gmail.com",
+		"password": "1234",
+		"doctor": false,
 		"id": 1
 	  },
 	  {
-		"name": "German Shepherd Dogs.",
-		"age": 4,
-		"gender": "Female",
-		"place": "Delhi",
+		"username": "sntosh",
+		"email": "santosh@gmail.com",
+		"password": "4321",
+		"doctor": true,
+		"id": 2
+	  },
+	  {
+		"username": "rahul",
+		"email": "rahul@gmail.com",
+		"password": "1234",
+		"doctor": true,
+		"id": 4
+	  }
+	],
+	"appointments": [
+	  {
+		"name": "santosh",
+		"image": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=1024x1024&w=is&k=20&c=eWLlDOBpK-cQh5EAUwgmfr6FR1o3VWPXVVjVMJt9lVo=",
+		"specialization": "Dermatologist",
+		"location": "bhiwqad",
+		"date": "2023-05-24",
+		"slots": "4",
+		"fee": "230",
+		"id": 1
+	  },
+	  {
+		"name": "rahul",
+		"image": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=1024x1024&w=is&k=20&c=eWLlDOBpK-cQh5EAUwgmfr6FR1o3VWPXVVjVMJt9lVo=",
+		"specialization": "Dermatologist",
+		"experience": "6",
+		"location": "alwar",
+		"date": "2023-05-27",
+		"slots": "4",
+		"fee": "230",
 		"id": 2
 	  }
 	]
